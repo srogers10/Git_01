@@ -1,0 +1,66 @@
+---
+title: "git_01"
+author: "Sandra Rogers"
+date: "9/16/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Build a Poem with commits to different branches
+Our project will be done using a sequence of save and commits and branch actions.
+<!-- Do not modify or change any text in "!--" bracketed areas such as this --- these are instructions to
+you, if you change any of this the git program will notice it and compromise your git merging strategy !-->
+
+## First Verse 
+<!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+
+A boat beneath a sunny sky,  
+Lingering onward dreamily  
+In an evening of July —  
+
+Children three that nestle near,  
+Eager eye and willing ear,  
+
+
+## Second Verse
+<!--Put the first five lines of a poem by Robert Frost here!-->
+
+I have been one acquainted with the night.   
+I have walked out in rain—and back in rain.  
+I have outwalked the furthest city light.  
+
+I have looked down the saddest city lane.  
+I have passed by the watchman on his beat  
+
+## Third Verse
+<!--Put the first two verses of The Walrus and the Carpenter here!-->
+
+The sun was shining on the sea,  
+Shining with all his might:  
+He did his very best to make  
+The billows smooth and bright--  
+And this was odd, because it was  
+The middle of the night.  
+
+The moon was shining sulkily,  
+Because she thought the sun  
+Had got no business to be there  
+After the day was done--  
+"It's very rude of him," she said,  
+"To come and spoil the fun!"  
+
+## Last Verse
+<!--Put a short poem of your choice 8-20 lines,here!-->
+
+The rose is a rose,  
+And was always a rose.  
+But the theory now goes  
+That the apple’s a rose,  
+And the pear is, and so’s  
+The plum, I suppose.  
+The dear only knows  
+What will next prove a rose.  
+You, of course, are a rose –  
+But were always a rose.  
